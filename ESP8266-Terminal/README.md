@@ -9,6 +9,8 @@ to a Linux machine with serial, and open a terminal on the `/dev/ttyUSB0` port.
 Then we connect with TCP to the ESP8266 (from another machine or even the same one), where
 we'll get a login session to the Linux machine.
 
+![image](https://github.com/yoav-klein/ESP8266/blob/main/ESP8266-Terminal/ESP-Terminal.png)
+
 ## Setup
 
 ### On the ESP8266
